@@ -15,4 +15,4 @@ https://youtu.be/HyuODAaZG_E
 ![Tableau Dashboard 2](TableauDashboard2.png)
 
 ## project documentation
-[click here to view my complete project report](Global_AI_Adoption_Eduction.pdf)
+[click here to view my complete project report](Global_AI_Adoption_Education.pdf)
