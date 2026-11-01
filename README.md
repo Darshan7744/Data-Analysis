@@ -12,5 +12,4 @@ https://youtu.be/HyuODAaZG_E
 ![Dashboard1](Dashboard1.png)
 
 ## Dashboard 2
-### Dashboard Preview
-![Dashboard2](Dashboard%202.png)
+![Dashboard 2](Dashboard.png)
