@@ -12,4 +12,4 @@ https://youtu.be/HyuODAaZG_E
 ![Dashboard1](Dashboard1.png)
 
 ## Dashboard 2
-![Dashboard 2](Dashboard.png)
+![Tableau Dashboard 2](TableauDashboard2.png)
