@@ -4,5 +4,9 @@ first project
 ## Demo video link
 https://youtu.be/HyuODAaZG_E
 
-## Dashboard Preview
-Dashboard.png
+
+## Tableau dashboars
+
+### darshboard 1
+Dashboard1
+![Dashboard1](Dashboard1.png)
