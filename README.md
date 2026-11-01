@@ -7,6 +7,9 @@ https://youtu.be/HyuODAaZG_E
 
 ## Tableau dashboars
 
-### darshboard 1
-Dashboard1
+### Darshboard 1
+
 ![Dashboard1](Dashboard1.png)
+
+### Dashboard 2
+![Dashboard 2](Dashboard2)
